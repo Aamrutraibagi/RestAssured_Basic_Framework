@@ -1,0 +1,5 @@
+{
+  "title": "API testing from JSON file",
+  "body": "This request body is coming from JSON file",
+  "userId": 1
+}

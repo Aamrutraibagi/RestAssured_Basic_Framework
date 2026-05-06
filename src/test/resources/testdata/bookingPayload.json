@@ -1,0 +1,11 @@
+{
+  "firstname": "Amrut",
+  "lastname": "Raibagi",
+  "totalprice": 2500,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-05-15",
+    "checkout": "2026-05-20"
+  },
+  "additionalneeds": "Breakfast"
+}
